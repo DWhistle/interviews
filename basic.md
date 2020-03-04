@@ -1,4 +1,4 @@
-# Общие знания
+# Общее
 Объясните, что делает этот код
 
 ```Java
@@ -14,30 +14,24 @@ a |= c
 # SQL
 1. Что такое и зачем используется первичный ключ
 2. Что такое транзакции и как они работают
-3. Дана таблица
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | 
 
-# GIT
 
 # Java
 
 ### Basics
-Что такое модификатор доступа protected
+1. Что такое модификатор доступа protected
 
 ### Collections
-Разница между Array и ArrayList
+1. Разница между Array и ArrayList
+2. Примерно описать реализацию LinkedList и операции, с ним связанные
 
 ### Strings
-1 Назовите разницу в инициализации
+1. Назовите разницу в инициализации
 ```Java
 String s1 = "Test";
 String s2 = new String("Test");
 ```
-
-2 Почему строка - это хороший ключ для HashMap
+2. Почему строка - это хороший ключ для HashMap
 
 ### Streams
 ```Java
